@@ -1,9 +1,12 @@
 # NDPR
-
 This repository contains the source code of our paper, [Recovering Dropped Pronouns in Chinese Conversations via Modeling Their Referents](https://google.com), which is accepted for publication at [NAACL 2019](http://naacl2019.org/).
 
 The readers are welcome to star/fork this repository and use it to train your own model, reproduce our experiment, and follow our future work. Please kindly cite our paper:
 
+#Usage
+```
+python train_v4.py 
+```
 
 
 ## Citation
