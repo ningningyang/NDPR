@@ -21,3 +21,6 @@ If this work is useful in your research, please kindly cite our paper.
 }
 ```
 
+## Reference
+1. Yang, Yaqin & Liu, Yalin & Xu, N. (2015). Recovering dropped pronouns from Chinese text messages. 2. 309-313. 10.3115/v1/P15-2051. 
+
