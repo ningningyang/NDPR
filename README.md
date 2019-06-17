@@ -39,30 +39,30 @@ The train/dev/test setting of these three datasets is shown in Table
    </tr>
     <tr>
         <td>SMS</td> 
-        <td>30,184</td>
-        <td>23,564</td>
-        <td>5,749</td>
-        <td>4,488</td>
+        <td>32,860</td>
+        <td>25,805</td>
+        <td>3,073</td>
+        <td>2,395</td>
         <td>4,346</td>
-        <td>3,539</td>
+        <td>3,411</td>
     </tr>
     <tr>
         <td>TC</td> 
-        <td></td>
-        <td></td>
-        <td>1347</td>
-        <td></td>
-        <td>1122</td>
-        <td>774</td>
+        <td>6,562</td>
+        <td>4,207</td>
+        <td>1,408</td>
+        <td>890</td>
+        <td>1,406</td>
+        <td>786</td>
     </tr>
      <tr>
         <td>BaiduZhidao</td> 
-        <td></td>
-        <td></td>
-        <td>1347</td>
-        <td></td>
-        <td>1406</td>
-        <td>786</td>
+        <td>5,500</td>
+        <td>4,312</td>
+        <td>1,170</td>
+        <td>732</td>
+        <td>1,186</td>
+        <td>832</td>
     </tr>
 </table>
 
