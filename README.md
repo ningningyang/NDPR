@@ -18,7 +18,21 @@ This dataset is published in CoNLL 2012 Shared Task. We use the Chinese telephon
 
 * BaiduZhidao
 
-This dataset is introduced in [2], which is a question answering dialogue dataset containing 11,160 sentences in the original raw data. It is annotated with 10 types of concrete dropped pronouns. In our work, we make data preprocessing by splitting the entire corpus into each 
+This dataset is introduced in [2], which is a question answering dialogue dataset containing 11,160 sentences in the raw data. In our work, we make data preprocessing by splitting the entire corpus into each independent QA segmentation, removing noise data and annotating the participant information for each sentence. Our processed dataset contains 9,376 sentences.
+
+The train/dev/test setting of these three datasets is shown in Table
+<table>
+    <tr>
+        <td>列一</td> 
+        <td>列一</td> 
+   </tr>
+    <tr>
+        <td colspan="2">合并行</td>    
+    </tr>
+    <tr>
+        <td colspan="2">合并行</td>    
+    </tr>
+</table>
 
 
 ## Citation
@@ -34,4 +48,5 @@ If this work is useful in your research, please kindly cite our paper.
 
 ## Reference
 [1] Yang, Yaqin & Liu, Yalin & Xue, Nianwen (2015). Recovering dropped pronouns from Chinese text messages. 2. 309-313. 10.3115/v1/P15-2051. 
+
 [2] Zhang, Weinan & Liu, Ting & Yin, Qingyu , & Zhang, Yu . (2016). Neural recovery machine for chinese dropped pronoun.
