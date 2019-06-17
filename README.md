@@ -9,6 +9,7 @@ python train_v4.py
 # Datasets
 We demonstrate our model on three datasets, which are: Chinese SMS, TC section of OntoNotes Release 5.0 and BaiduZhidao. 
 * Chinese SMS
+
 This dataset is introduced in [1], which consists of 684 Chinese SMS files. In our work, we take the same train/dev/test data split as [1], which reserves 16.7% of the training set as a development set.
 * OntoNotes Release 5.0(TC section)
 
