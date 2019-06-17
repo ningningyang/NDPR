@@ -9,6 +9,7 @@ python train_v4.py
 # Datasets
 We demonstrate our model on three datasets, which are: Chinese SMS, TC section of OntoNotes Release 5.0 and BaiduZhidao. 
 * Chinese SMS
+
 * OntoNotes Release 5.0(TC section)
 * BaiduZhidao
 
