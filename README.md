@@ -9,8 +9,9 @@ python train_v4.py
 # Datasets
 We demonstrate our model on three datasets, which are: Chinese SMS, TC section of OntoNotes Release 5.0 and BaiduZhidao. 
 * Chinese SMS
-
+This dataset is introduced in [1], which consists of 684 Chinese SMS files. In our work, we take the same train/dev/test data split as [1], which reserves 16.7% of the training set as a development set.
 * OntoNotes Release 5.0(TC section)
+
 * BaiduZhidao
 
 ## Citation
@@ -25,5 +26,5 @@ If this work is useful in your research, please kindly cite our paper.
 ```
 
 ## Reference
-1. Yang, Yaqin & Liu, Yalin & Xue, Nianwen (2015). Recovering dropped pronouns from Chinese text messages. 2. 309-313. 10.3115/v1/P15-2051. 
+[1] Yang, Yaqin & Liu, Yalin & Xue, Nianwen (2015). Recovering dropped pronouns from Chinese text messages. 2. 309-313. 10.3115/v1/P15-2051. 
 
