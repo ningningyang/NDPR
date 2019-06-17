@@ -23,11 +23,28 @@ This dataset is introduced in [2], which is a question answering dialogue datase
 The train/dev/test setting of these three datasets is shown in Table
 <table>
     <tr>
-        <td>列一</td> 
-        <td>列一</td> 
+        <td></td> 
+        <td colspan="2">Train</td>
+        <td colspan="2">Dev</td>
+        <td colspan="2">Test</td>
    </tr>
     <tr>
-        <td colspan="2">合并行</td>    
+        <td></td> 
+        <td>Sentence</td>
+        <td>DPs</td>
+        <td>Sentence</td>
+        <td>DPs</td>
+        <td>Sentence</td>
+        <td>DPs</td>
+   </tr>
+    <tr>
+        <td>SMS</td> 
+        <td>30,184</td>
+        <td>23,564</td>
+        <td>5,749</td>
+        <td>4,488</td>
+        <td>4,346</td>
+        <td>3,539</td>
     </tr>
     <tr>
         <td colspan="2">合并行</td>    
