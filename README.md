@@ -47,7 +47,22 @@ The train/dev/test setting of these three datasets is shown in Table
         <td>3,539</td>
     </tr>
     <tr>
-        <td colspan="2">合并行</td>    
+        <td>TC</td> 
+        <td></td>
+        <td></td>
+        <td>1347</td>
+        <td></td>
+        <td>1122</td>
+        <td>774</td>
+    </tr>
+     <tr>
+        <td>BaiduZhidao</td> 
+        <td></td>
+        <td></td>
+        <td>1347</td>
+        <td></td>
+        <td>1406</td>
+        <td>786</td>
     </tr>
 </table>
 
