@@ -33,9 +33,9 @@ flags.DEFINE_integer("checkpoint_every", 500, "Save model after this many steps 
 flags.DEFINE_integer("num_checkpoints", 5, "Number of checkpoints to store (default: 5)")
 flags.DEFINE_integer("pretrain_embedding", 0, "Load pretrain embedding or not.")
 flags.DEFINE_integer("vocab_size", 17199, "Load pretrain embedding or not.")
-flags.DEFINE_integer("update_embedding", False, "Train embedding or not.")
+flags.DEFINE_boolean("update_embedding", False, "Train embedding or not.")
 flags.DEFINE_integer("num_tags", 17, "2-classification or 17-classification.")
-flags.DEFINE_integer("l2_lambda", 1e-4, "Regularization coefficient.")
+flags.DEFINE_float("l2_lambda", 1e-4, "Regularization coefficient.")
 
 FLAGS = flags.FLAGS
 
