@@ -57,11 +57,11 @@ The train/dev/test setting of these three datasets is shown in Table
     </tr>
      <tr>
         <td>BaiduZhidao</td> 
-        <td>5,500</td>
+        <td>5,504</td>
         <td>4,312</td>
-        <td>1,170</td>
+        <td>1,175</td>
         <td>732</td>
-        <td>1,186</td>
+        <td>1,178</td>
         <td>832</td>
     </tr>
 </table>
